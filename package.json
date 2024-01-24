@@ -1,0 +1,23 @@
+{
+  "name": "playvideobackend",
+  "version": "1.0.0",
+  "description": "My first backend project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shailendraIN0117/playVideoBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shailendraIN0117/playVideoBackend/issues"
+  },
+  "homepage": "https://github.com/shailendraIN0117/playVideoBackend#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
