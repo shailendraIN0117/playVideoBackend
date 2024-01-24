@@ -7,17 +7,10 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shailendraIN0117/playVideoBackend.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/shailendraIN0117/playVideoBackend/issues"
-  },
-  "homepage": "https://github.com/shailendraIN0117/playVideoBackend#readme",
   "devDependencies": {
-    "nodemon": "^3.0.3"
+    "nodemon": "^3.0.3",
+    "prettier": "^3.2.4"
   }
 }
